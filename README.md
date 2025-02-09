@@ -1,6 +1,6 @@
 💸 DegenDistro - The Ultimate SOL Distribution Tool! 🚀
 
-![DegenDistro](https://imgur.com/aHscBgh)
+![DegenDistro](https://i.imgur.com/aHscBgh.png)
 🔥 What is DegenDistro?
 
 DegenDistro is the fastest and most efficient way to distribute SOL and manage multiple wallets like a pro! Whether you're airdropping, selling, or recovering funds, this tool does it all in just a few clicks. 💰
